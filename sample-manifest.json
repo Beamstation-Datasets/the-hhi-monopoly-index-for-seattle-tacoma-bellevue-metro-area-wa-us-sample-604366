@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cd91a045-af53-48e0-a632-31b3e9bdbf28",
+  "id_short": 604366,
+  "published_at": "2026-04-13T19:56:23Z",
+  "repo_name": "the-hhi-monopoly-index-for-seattle-tacoma-bellevue-metro-area-wa-us-sample-604366",
+  "sample_asset_name": "beamstation_604366_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/604366/beamstation_604366_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "8d1ed46944371edb6c0fe34003304500b8000da7808f8de6d8d27f6431d8c0ca",
+  "sample_size_bytes": 28085,
+  "total_records": 124
+}
