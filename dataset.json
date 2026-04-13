@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Seattle-Tacoma-Bellevue Metro Area, WA, US",
+  "export_job_id": "cd91a045-af53-48e0-a632-31b3e9bdbf28",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 604366,
+  "location_name": "Seattle-Tacoma-Bellevue, WA",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-seattle-tacoma-bellevue-metro-area-wa-us-sample-604366",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/604366/beamstation_604366_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_pct": 2.42,
+  "sample_records": 3,
+  "sample_sha256": "8d1ed46944371edb6c0fe34003304500b8000da7808f8de6d8d27f6431d8c0ca",
+  "sample_size_bytes": 28085,
+  "total_records": 124,
+  "updated_at": "2026-03-31T23:44:07.700601+00:00"
+}
