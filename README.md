@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Seattle-Tacoma-Bellevue Metro Area, WA, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `604366` |
 | Location | Seattle-Tacoma-Bellevue, WA |
 | Category | Restaurants |
-| Full dataset size | 134 records |
-| Free sample size | 13 records (9.7%) |
-| Last export | 2026-04-22T05:49:06.602137+00:00 |
+| Full dataset size | 165 records |
+| Free sample size | 16 records (9.7%) |
+| Last export | 2026-04-29T07:53:48.888325+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-seattle-tacoma-bellevue-metro-area-wa-us-sample-604366/releases/download/sample-latest/beamstation_604366_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
